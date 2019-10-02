@@ -1,2 +1,1 @@
-# Radical_New
-For Radical Students
+Radical changes to technology.
